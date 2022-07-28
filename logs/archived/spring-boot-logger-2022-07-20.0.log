@@ -1,0 +1,256 @@
+2022-07-20 19:25:08,817 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 5072 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:25:08,822 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:25:08,822 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 13:55:12,958 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 6484 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 13:55:12,966 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 13:55:12,967 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 13:55:39,288 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 13:55:39,291 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 13:55:42,478 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 30.689 seconds (JVM running for 8759.149)
+2022-07-20 19:26:06,360 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:26:06,361 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:26:11,679 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 13:57:46,418 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:46,443 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:49,769 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:51,692 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:51,705 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:51,751 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:51,833 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:52,211 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:52,249 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:57:52,283 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:38,953 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:39,115 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:39,509 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:40,066 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:46,341 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:46,717 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:46,850 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:46,867 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] Before request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:47,059 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] After request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 13:58:47,210 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:54,146 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:54,171 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:54,552 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,230 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,256 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,284 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,387 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,565 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,613 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:55,640 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:56,682 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:56,687 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:57,055 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:57,771 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:57,791 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:57,833 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:57,985 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:00:58,203 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:01,954 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:01,971 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,324 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,343 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,353 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,365 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] Before request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,536 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:01:02,548 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] After request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:02:24,173 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1]
+2022-07-20 19:33:05,651 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 6928 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:33:05,657 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:33:05,658 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 19:33:32,510 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:33:32,511 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:33:35,534 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 14:03:51,201 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1, payload=[{"header":"FormId","liNo":1,"pageMasterId":"8","v]
+2022-07-20 14:03:52,111 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:52,122 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:52,489 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:53,169 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:54,619 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:54,720 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:54,970 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:03:55,072 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:05:20,265 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /api/v1/all-module/4, client=192.168.18.7]
+2022-07-20 14:05:20,326 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:20,689 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:20,704 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/all-module/8, client=192.168.18.7]
+2022-07-20 14:05:20,713 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:21,089 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:21,616 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/all-module/8, client=192.168.18.7]
+2022-07-20 14:05:21,631 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/branch-admin, client=192.168.18.7]
+2022-07-20 14:05:21,657 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /api/v1/subscription-detail, client=192.168.18.7]
+2022-07-20 14:05:21,764 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=192.168.18.7]
+2022-07-20 14:05:21,815 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/branch-admin, client=192.168.18.7]
+2022-07-20 14:05:21,991 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=192.168.18.7]
+2022-07-20 14:05:22,010 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /api/v1/subscription-detail, client=192.168.18.7]
+2022-07-20 14:05:32,330 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /api/v1/all-module/4, client=192.168.18.7]
+2022-07-20 14:05:32,520 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /api/v1/page-master/parent, client=192.168.18.7]
+2022-07-20 14:05:32,703 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /api/v1/page-master/parent, client=192.168.18.7]
+2022-07-20 14:05:33,045 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/page-master?isPagination=false, client=192.168.18.7]
+2022-07-20 14:05:33,403 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/page-master?isPagination=false, client=192.168.18.7]
+2022-07-20 19:35:37,133 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 18688 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:35:37,139 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:35:37,140 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 14:05:45,400 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/form-data/8, client=192.168.18.7]
+2022-07-20 14:05:45,415 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:45,769 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/form-data/8, client=192.168.18.7]
+2022-07-20 14:05:45,789 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/branch-admin, client=192.168.18.7]
+2022-07-20 14:05:45,817 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /api/v1/role-master-prm/read-only, client=192.168.18.7]
+2022-07-20 14:05:45,817 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/subscription-detail, client=192.168.18.7]
+2022-07-20 14:05:45,977 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/branch-admin, client=192.168.18.7]
+2022-07-20 14:05:46,016 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/subscription-detail, client=192.168.18.7]
+2022-07-20 19:35:55,124 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:35:55,126 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:35:58,349 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 14:10:24,220 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 14:10:54,330 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-10030-exec-9] HikariPool-3 - Connection is not available, request timed out after 30076ms.
+2022-07-20 14:10:54,332 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-10030-exec-9] No operations allowed after connection closed.
+2022-07-20 14:10:54,339 ERROR com.itz.mahalla.use_cases.aaa_module.role_master_permission.RoleMasterPermissionService [http-nio-10030-exec-9] Unable to acquire JDBC Connection; nested exception is org.hibernate.exception.JDBCConnectionException: Unable to acquire JDBC Connection
+2022-07-20 14:10:54,355 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 19:42:20,321 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 7340 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:42:20,325 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:42:20,326 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 19:42:34,357 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:42:34,359 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:42:37,000 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 19:43:57,008 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 14896 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:43:57,014 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:43:57,016 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 19:44:12,111 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:44:12,112 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:44:14,840 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 19:45:17,726 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 13416 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:45:17,731 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:45:17,732 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 19:45:33,432 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:45:33,434 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:45:36,207 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 19:53:03,538 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 17164 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 19:53:03,552 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 19:53:03,552 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 19:53:20,754 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 19:53:20,754 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 19:53:24,675 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10030 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10030 or configure this application to listen on another port.
+
+2022-07-20 20:12:51,366 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 8212 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 20:12:51,376 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 20:12:51,380 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 20:13:32,345 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 20:13:32,346 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 20:13:36,186 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 47.572 seconds (JVM running for 77.765)
+2022-07-20 20:19:30,768 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:47,854 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:52,794 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:57,880 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:57,901 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:57,951 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:58,198 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:58,341 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /api/v1/branch-admin, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:58,500 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /api/v1/subscription-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:19:58,590 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:21:44,113 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [POST /api/v1/customer-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:21:46,385 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [POST /api/v1/customer-detail, client=0:0:0:0:0:0:0:1, payload={"branchAdminId":2,"subscriptionTypeId":2,"name":"]
+2022-07-20 20:21:46,402 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:21:46,604 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:25:10,059 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 9852 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-20 20:25:10,064 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-20 20:25:10,065 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-20 20:25:29,239 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-20 20:25:29,240 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-20 20:25:32,651 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 24.405 seconds (JVM running for 31.7)
+2022-07-20 20:27:13,914 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [POST /api/v1/customer-detail, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:28:43,014 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [POST /api/v1/customer-detail, client=0:0:0:0:0:0:0:1, payload={"branchAdminId":2,"subscriptionTypeId":2,"name":"]
+2022-07-20 20:28:43,041 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-20 20:28:43,388 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /api/v1/customer-detail?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
