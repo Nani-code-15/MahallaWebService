@@ -18,8 +18,8 @@ public class FormData extends Auditable<String> {
     private Integer id = 0;
     private String header;
     private Integer liNo;
-    @Lob
-    @Column(columnDefinition = "TEXT")
+//    @Lob
+//    @Column(columnDefinition = "TEXT")
     private String value;
     private String crBy = JwtUtil.usr;
     private String upBy;

@@ -1,0 +1,38 @@
+2022-07-29 10:24:29,054 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 2320 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-29 10:24:29,061 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-29 10:24:29,062 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-29 10:24:47,877 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-29 10:24:47,883 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-29 10:24:50,619 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 23.254 seconds (JVM running for 37.661)
+2022-07-29 10:33:31,513 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:35,589 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:37,409 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:39,392 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:40,167 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1, payload={"userId":"abdul","password":"1234"}]
+2022-07-29 10:33:40,640 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:40,690 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1, payload={"userId":"abdul","password":"1234"}]
+2022-07-29 10:33:41,050 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1, payload={"userId":"abdul","password":"1234"}]
+2022-07-29 10:33:41,249 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:33:42,686 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [POST /api/v1/auth/web-login, client=0:0:0:0:0:0:0:1, payload={"userId":"abdul","password":"1234"}]
+2022-07-29 10:40:04,730 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:40:20,153 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:49:38,216 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:49:58,640 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:16,316 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:17,766 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:17,826 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:18,310 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:19,491 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 10:50:19,867 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:14:45,905 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:15:01,365 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:36,292 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:36,662 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:50,759 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:51,113 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:58,858 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:17:59,210 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:18:19,614 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:18:19,982 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:18:28,684 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-29 11:18:29,046 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]

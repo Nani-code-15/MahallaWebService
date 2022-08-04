@@ -1,0 +1,431 @@
+2022-07-28 10:54:20,176 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 6012 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 10:54:20,188 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 10:54:20,189 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 10:55:13,992 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 10:55:14,018 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 10:55:18,593 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 68.378 seconds (JVM running for 134.936)
+2022-07-28 10:55:30,878 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 10:55:31,199 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 10:55:31,384 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 10:55:31,471 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 10:59:19,413 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 6480 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 10:59:19,419 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 10:59:19,420 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 10:59:49,842 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 10:59:49,843 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 10:59:52,942 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 38.993 seconds (JVM running for 50.314)
+2022-07-28 11:00:03,738 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:00:03,837 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:00:06,629 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:00:06,692 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:02:16,831 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 8552 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:02:16,837 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:02:16,838 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:02:35,378 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:02:35,380 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:02:38,724 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 23.761 seconds (JVM running for 28.478)
+2022-07-28 11:02:44,839 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:02:44,900 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:02:44,958 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:02:45,009 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:03:45,601 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 14920 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:03:45,607 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:03:45,608 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:04:37,011 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:04:37,012 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:04:43,996 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 59.726 seconds (JVM running for 61.915)
+2022-07-28 11:05:18,018 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:18,172 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:18,206 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:18,271 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:36,890 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:36,926 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:36,965 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:36,975 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:37,616 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:37,631 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:37,671 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:37,683 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,082 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,097 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,140 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,157 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,326 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,348 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,394 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,407 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,535 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,546 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,602 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:05:38,609 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:06:11,387 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 15596 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:06:11,419 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:06:11,420 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:06:37,382 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:06:37,388 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:06:41,015 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 32.979 seconds (JVM running for 39.164)
+2022-07-28 11:07:12,056 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,113 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,155 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,191 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,912 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,926 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,963 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:12,975 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:13,539 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:13,547 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:13,592 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:13,599 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,162 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,172 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,205 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,216 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,777 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,789 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-9] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,824 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:41,829 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-10] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,002 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,012 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,047 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,053 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,197 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,208 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-3] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,252 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,262 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-4] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,408 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,419 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-5] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,463 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,470 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-6] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,624 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,631 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-7] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,671 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:07:42,678 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-8] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:08:58,352 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 7400 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:08:58,360 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:08:58,361 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:09:18,714 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:09:18,716 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:09:24,647 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 27.724 seconds (JVM running for 29.729)
+2022-07-28 11:09:32,826 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] Before request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:09:32,880 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-1] After request [GET /, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:09:32,933 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] Before request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:09:32,944 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10030-exec-2] After request [GET /favicon.ico, client=0:0:0:0:0:0:0:1]
+2022-07-28 11:26:14,558 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 7676 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:26:14,563 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:26:14,564 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:26:31,411 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:26:31,412 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:26:34,011 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 20.838 seconds (JVM running for 28.67)
+2022-07-28 11:28:04,299 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting VidiyalSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 12384 (D:\My workspace\Angular project\Vidiyal\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Vidiyal\Backend)
+2022-07-28 11:28:04,306 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 11:28:04,307 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 11:28:17,611 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 11:28:17,612 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 11:28:19,987 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started VidiyalSpringApplication in 16.672 seconds (JVM running for 18.438)
+2022-07-28 12:41:55,009 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 16612 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 12:41:55,020 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 12:41:55,021 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 12:42:16,428 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 12:42:16,429 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 12:42:19,319 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 25.603 seconds (JVM running for 27.677)
+2022-07-28 12:48:09,063 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 13164 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 12:48:09,068 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 12:48:09,069 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 12:48:24,281 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 12:48:24,282 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 12:48:27,058 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 10040 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 10040 or configure this application to listen on another port.
+
+2022-07-28 12:52:58,616 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 648 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 12:52:58,624 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 12:52:58,625 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 12:53:12,420 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 12:53:12,423 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 12:53:14,739 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 17.2 seconds (JVM running for 19.295)
+2022-07-28 13:02:27,983 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:02:44,186 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:02:59,449 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:02:59,815 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:03:07,044 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:03:07,396 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:14:37,955 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:14:38,478 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:16:04,380 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:16:04,746 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:27:41,866 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:27:57,317 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:32:04,918 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 8212 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 13:32:04,923 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 13:32:04,923 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 13:32:24,830 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 13:32:24,833 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 13:32:27,351 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 25.56 seconds (JVM running for 38.736)
+2022-07-28 13:32:38,011 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:32:38,725 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:36:11,235 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:36:11,598 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:37:15,591 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:37:15,958 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:52:41,116 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 13:52:41,517 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:26:35,047 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 16588 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 15:26:35,055 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 15:26:35,055 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 15:26:47,806 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 15:26:47,806 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 15:26:50,102 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 16.088 seconds (JVM running for 17.86)
+2022-07-28 15:27:31,671 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:27:32,367 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:36:49,902 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/auth/profile-setting, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:36:49,922 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/auth/profile-setting, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:40:44,849 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:01,437 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:01,455 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:01,523 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:01,648 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:01,935 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:55,418 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [POST /api/v1/page-master, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:57,228 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [POST /api/v1/page-master, client=0:0:0:0:0:0:0:1, payload={"parentId":"","name":"Family_module","serviceName]
+2022-07-28 15:41:57,255 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:41:57,470 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:07,629 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:07,670 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:08,101 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:08,835 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:08,859 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:08,927 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:09,051 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:42:09,295 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:15,651 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [POST /api/v1/page-master, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:17,061 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [POST /api/v1/page-master, client=0:0:0:0:0:0:0:1, payload={"parentId":7,"name":"Family Head Details","servic]
+2022-07-28 15:43:17,085 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:17,444 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:26,378 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:26,416 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:26,775 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:27,445 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:27,462 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:27,584 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:27,784 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:27,826 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:43,852 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:43,864 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:43,917 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:44,206 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:44,217 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:43:44,274 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:44:40,785 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:44:41,685 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"name","header":"Family Head Name","type"]
+2022-07-28 15:44:41,703 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:44:41,710 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:44:41,888 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:44:42,063 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:47:51,692 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:47:52,572 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"aliasName","header":"Alias Name","type":]
+2022-07-28 15:47:52,586 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:47:52,589 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:47:52,770 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:47:52,943 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:18,584 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:19,456 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"date","header":"Date","type":"date","wid]
+2022-07-28 15:48:19,472 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:19,493 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:19,847 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:24,856 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:50,171 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:51,072 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"mobileNumber","header":"Mobile Number","]
+2022-07-28 15:48:51,082 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:51,084 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:51,335 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:48:51,478 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:50:03,666 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:50:04,546 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"sandhaAmount","header":"Sandha Amount","]
+2022-07-28 15:50:04,565 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:50:04,569 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:50:04,752 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:50:04,935 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:51:08,654 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:51:09,525 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [POST /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"field":"photoUrl","header":"Photo","type":"text"]
+2022-07-28 15:51:09,547 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:51:09,549 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:51:09,727 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:51:09,909 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:54:47,104 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [POST /api/v1/table-button-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:54:48,002 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [POST /api/v1/table-button-schema, client=0:0:0:0:0:0:0:1, payload={"icon":"pi-pencil","toolTip":"Edit","action":"edi]
+2022-07-28 15:54:48,025 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:54:48,025 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:54:48,208 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:54:48,373 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:05,750 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [POST /api/v1/table-button-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:06,605 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [POST /api/v1/table-button-schema, client=0:0:0:0:0:0:0:1, payload={"icon":"pi-trash","toolTip":"Delete","action":"de]
+2022-07-28 15:55:06,626 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:06,639 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:06,826 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:06,990 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:49,669 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:49,681 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:50,031 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:50,734 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:50,748 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:50,786 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:50,965 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:51,098 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:54,594 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:54,616 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:54,955 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 15:55:54,968 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:02:48,336 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:19,507 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1, payload=[{"header":"FormId","liNo":1,"pageMasterId":"8","v]
+2022-07-28 16:03:20,105 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:20,117 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:20,480 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:21,189 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:21,204 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:21,249 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:21,388 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:03:21,606 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:30:13,163 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MahallaSpringApplication using Java 18.0.1.1 on DESKTOP-DG5D4SP with PID 15192 (D:\My workspace\Angular project\Mahalla\Backend\target\classes started by 91956 in D:\My workspace\Angular project\Mahalla\Backend)
+2022-07-28 16:30:13,169 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-07-28 16:30:13,170 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-07-28 16:30:29,867 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'requestLoggingFilter' configured for use
+2022-07-28 16:30:29,868 DEBUG org.springframework.web.filter.GenericFilterBean [restartedMain] Filter 'jwtRequestFilter' configured for use
+2022-07-28 16:30:32,374 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MahallaSpringApplication in 20.539 seconds (JVM running for 22.74)
+2022-07-28 16:31:52,188 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:31:52,188 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:31:52,880 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:31:53,853 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:08,166 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:08,167 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:08,608 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:09,554 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:09,586 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:09,651 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:09,915 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:09,960 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:22,130 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [PUT /api/v1/page-master, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:23,508 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [PUT /api/v1/page-master, client=0:0:0:0:0:0:0:1, payload={"id":8,"parentId":7,"name":"Family Head Details",]
+2022-07-28 16:33:23,522 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:33:23,896 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:34:20,131 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [PUT /api/v1/page-master, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:34:21,217 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [PUT /api/v1/page-master, client=0:0:0:0:0:0:0:1, payload={"id":8,"parentId":7,"name":"Family Head Details",]
+2022-07-28 16:34:21,238 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:34:21,605 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:38:10,376 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:38:10,385 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:38:10,748 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:38:11,468 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:42:46,615 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:42:46,617 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:42:47,014 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:42:47,708 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:56:26,302 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:56:43,154 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:13,224 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:14,338 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:14,428 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:16,562 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:19,984 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/all-module/5, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:19,995 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:20,372 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:21,072 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/all-module/5, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:21,103 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/role-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:22,426 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/role-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:24,147 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/1, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:24,153 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:24,505 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:24,643 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/1, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:28,774 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [PUT /api/v1/role-master-prm/, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:30,562 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [PUT /api/v1/role-master-prm/, client=0:0:0:0:0:0:0:1, payload=[{"name":"Dashboard","id":3,"parentId":0,"doCreate]
+2022-07-28 16:58:35,445 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:35,450 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:35,801 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:36,513 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:36,564 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 16:58:36,918 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:10:49,964 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:10:49,994 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:10:56,414 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:01,065 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:01,163 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:01,344 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:05,868 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:05,885 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:06,317 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:07,019 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:07,033 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:07,088 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:07,218 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:07,442 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:10,523 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:10,549 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:10,892 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:10,918 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:11:55,442 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:46,312 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [POST /api/v1/form-data, client=0:0:0:0:0:0:0:1, payload=[{"header":"FormId","liNo":1,"pageMasterId":"8","v]
+2022-07-28 17:12:46,896 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:46,911 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:47,270 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:47,957 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:47,975 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:48,037 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:48,160 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:12:48,393 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:18,242 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:18,242 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:28,479 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:29,441 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:29,476 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:17:29,658 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:07,664 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [POST /api/v1/family-head-details, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:08,838 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [POST /api/v1/family-head-details, client=0:0:0:0:0:0:0:1, payload={"name":"Kalil","aliasName":"Kalil Family","date":]
+2022-07-28 17:19:08,860 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:09,057 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:13,564 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:13,575 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:13,928 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:14,635 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:14,649 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:14,685 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:14,836 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:15,035 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-1] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:17,066 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:17,076 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:17,424 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/form-data/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:17,425 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-6] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:54,908 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] Before request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:54,915 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:55,278 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:55,975 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-5] After request [GET /api/v1/all-module/4, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:55,984 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] Before request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:56,031 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:56,167 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-2] After request [GET /api/v1/page-master/parent, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:56,382 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/page-master?isPagination=false, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:58,712 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:58,712 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:58,770 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:59,104 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:59,106 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-7] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:19:59,144 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:11,756 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [PUT /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:12,846 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [PUT /api/v1/table-main-schema, client=0:0:0:0:0:0:0:1, payload={"id":14,"field":"name","header":"Family Head Name]
+2022-07-28 17:20:12,855 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] Before request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:12,856 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] Before request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:13,040 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-9] After request [GET /api/v1/table-button-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:13,204 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-4] After request [GET /api/v1/table-main-schema/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:15,354 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] Before request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:15,365 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] Before request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:15,722 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-8] After request [GET /api/v1/role-master-prm/read-only, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:16,391 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-10] After request [GET /api/v1/all-module/8, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:16,420 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] Before request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
+2022-07-28 17:20:16,778 DEBUG org.springframework.web.filter.CommonsRequestLoggingFilter [http-nio-10040-exec-3] After request [GET /api/v1/family-head-details?start=1&limit=10&isPagination=true, client=0:0:0:0:0:0:0:1]
